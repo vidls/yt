@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0,Россия 24 Online 
 https://www.youtube.com/watch?v=i_Q8N6ZSDXQ
-#EXTINF:0,Life Online 
-https://www.youtube.com/watch?v=kj0G0M95J8I
+#EXTINF:0,Украина
+http://kv-s3-n04.ollcdn.net/trku-live/18/b22ef91d1bd7ef50900cda358cf053f9/59bd7258/ukraina/ukraina20170616T0338453.m3u8
 #EXTINF:0,RT-Doc
 http://rtmp.api.rt.com/hls/rtdru360.m3u8
 #EXTINF:-1,NASA Live - Earth From Space (HDVR) ♥ ISS LIVE FEED
