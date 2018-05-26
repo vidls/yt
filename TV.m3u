@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Local
+http://192.168.1.100:8888
 #EXTINF:-1, 21 Юрий Лотман — Формирование интеллигента в России
 https://www.youtube.com/watch?v=xjcYn5lE9xM
 #EXTINF:-1, 22 Юрий Лотман — Формирование дворянской интеллигенции
@@ -75,5 +77,17 @@ https://www.youtube.com/watch?v=PpsECDzfGKg
 https://www.youtube.com/watch?v=5Pxzgooc2yM
 #EXTINF:-1,Снятый с эфира выпуск программы БесогонTV «Синдром Гарри Поттера» -
 https://www.youtube.com/watch?v=U6381rv5E18
-#EXTINF:-1,Local
-http://192.168.1.100:8888
+#EXTINF:-1,«Форсаж. Возвращение» - «Крым. Небо родины», реж. Н. Гугуева, 2016
+https://www.youtube.com/watch?v=rOakGH-nvYs
+#EXTINF:-1,ГЕНЕРАЛЬНЫЙ КОНСТРУКТОР серия 1
+https://www.youtube.com/watch?v=zUmMk6qfyxU
+#EXTINF:-1,ГЕНЕРАЛЬНЫЙ КОНСТРУКТОР серия 2
+https://www.youtube.com/watch?v=cLAmn_T1iyE
+#EXTINF:-1,Сахалин - остров загадок
+https://www.youtube.com/watch?v=bBgi4bgTqm4
+#EXTINF:-1,ДОКУМЕНТАЛЬНЫЙ ФИЛЬМ | ВИКТОР ТУРОВ. ДЫХАНИЕ ЖИЗНИ
+https://www.youtube.com/watch?v=nelH-PWiZxs
+#EXTINF:-1,Дворы нашего детства (1) 1992
+https://www.youtube.com/watch?v=th1slLhlJm8
+#EXTINF:-1,Дворы нашего детства (2) 1992
+https://www.youtube.com/watch?v=AA5Mv_nqJts
