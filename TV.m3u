@@ -1,14 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Local
 http://192.168.1.100:8888
-#EXTINF:-1, 21 Юрий Лотман — Формирование интеллигента в России
-https://www.youtube.com/watch?v=xjcYn5lE9xM
-#EXTINF:-1, 22 Юрий Лотман — Формирование дворянской интеллигенции
-https://www.youtube.com/watch?v=dw0KdE6hV_o
-#EXTINF:-1, 23 Юрий Лотман: Искусство - это мы. Беседы о русской культуре
-https://www.youtube.com/watch?v=pKJp3odzAzE
-#EXTINF:-1, 24 Юрий Лотман
-https://www.youtube.com/watch?v=ODcPQuyCy-w
+#EXTINF:-1,Всë, что нужно знать о британской элите
+https://www.youtube.com/watch?v=i3WHkjylgS4
 #EXTINF:-1,Закон Юма
 http://video-storage.openedu.ru/video/hd/0001/PSYCON-tocoo51jvh.mp4
 #EXTINF:-1,Сознание и рациональный мир
@@ -91,3 +85,7 @@ https://www.youtube.com/watch?v=nelH-PWiZxs
 https://www.youtube.com/watch?v=th1slLhlJm8
 #EXTINF:-1,Дворы нашего детства (2) 1992
 https://www.youtube.com/watch?v=AA5Mv_nqJts
+#EXTINF:-1,Natalia Oreiro - United by love (Rusia 2018) [Official Lyric Video]
+https://www.youtube.com/watch?v=qXGkWDrNNls
+#EXTINF:-1,БесогонTV «Поле чудес в стране дураков»
+https://www.youtube.com/watch?v=DSqg6P3AHbs
