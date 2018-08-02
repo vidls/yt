@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Local
 http://192.168.1.100:8888
+#EXTINF:-1,Творческий вечер Сергея Кургиняна
+https://www.youtube.com/watch?v=PKFPjLJ-Fic
 #EXTINF:-1,Всë, что нужно знать о британской элите
 https://www.youtube.com/watch?v=i3WHkjylgS4
 #EXTINF:-1,Закон Юма
@@ -99,9 +101,5 @@ https://www.youtube.com/watch?v=8cmoPq4NlWQ
 https://www.youtube.com/watch?v=kFd6i-hvm8U
 #EXTINF:-1,Тайна семейной жизни педагога Макаренко | Телеканал "История" \-
 https://www.youtube.com/watch?v=swQGr3f2Zdk&feature=youtu.be
-#EXTINF:-1,Трамп ещё не решил, что делать с Украиной Татьяна Монтян
-https://www.youtube.com/watch?v=FkKJcPjahe8
 #EXTINF:-1,Монтян: Поучайте своих паучат!
 https://www.youtube.com/watch?v=_NSCK0II2Xo
-#EXTINF:-1,Творческий вечер Сергея Кургиняна
-https://www.youtube.com/watch?v=PKFPjLJ-Fic
