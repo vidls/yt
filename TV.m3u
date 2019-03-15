@@ -1,54 +1,10 @@
 #EXTM3U
-#EXTINF:-1,Local
-http://192.168.1.100:8888
-#EXTINF:-1,Творческий вечер Сергея Кургиняна
-https://www.youtube.com/watch?v=PKFPjLJ-Fic
-#EXTINF:-1,Взгляд тишины (про массовые убийства в Индонезии, д/ф)
-http://185.38.12.44/sec/1533263190/37333936ac64e286bba6870792868dbb8c93f888e6fbe4ff/ivs/4d/8a/455b7d5d61e0/hls/tracks-4,5/index.m3u8
 #EXTINF:-1,Всë, что нужно знать о британской элите
 https://www.youtube.com/watch?v=i3WHkjylgS4
-#EXTINF:-1,Закон Юма
-http://video-storage.openedu.ru/video/hd/0001/PSYCON-tocoo51jvh.mp4
-#EXTINF:-1,Сознание и рациональный мир
-http://video-storage.openedu.ru/video/hd/0001/PSYCON-4osl98p1l4.mp4
-#EXTINF:-1,Суеверное поведение
-http://video-storage.openedu.ru/video/hd/0001/PSYCON-3xy8vmsud0.mp4
-#EXTINF:-1,Магическое мышление
-http://video-storage.openedu.ru/video/hd/0001/PSYCON-7eh6c2jxqt.mp4
-#EXTINF:-1,Чувство контроля
-http://video-storage.openedu.ru/video/hd/0001/PSYCON-3nn680fzkh.mp4
-#EXTINF:-1,Когда контроль невозможен
-http://video-storage.openedu.ru/video/hd/0001/PSYCON-9bjg3xykzu.mp4
-#EXTINF:-1,Структурирование реальности
-http://video-storage.openedu.ru/video/hd/0001/PSYCON-kdap1gnbek.mp4
-#EXTINF:-1,Оценка вероятностей
-http://video-storage.openedu.ru/video/hd/0001/PSYCON-q98x4s2bjy.mp4
-#EXTINF:-1,Заключение
-http://video-storage.openedu.ru/video/hd/0001/PSYCON-vec7x87smu.mp4
-#EXTINF:-1,Закон разрыва шаблона. Введение
-http://video-storage.openedu.ru/video/hd/0001/PSYCON-9may6dx5mt.mp4
-#EXTINF:-1,Закон разрыва шаблона
-http://video-storage.openedu.ru/video/hd/0001/PSYCON-407by6xc81.mp4
-#EXTINF:-1,Нарушение контекста
-http://video-storage.openedu.ru/video/hd/0001/PSYCON-uoai7tgiyj.mp4
-#EXTINF:-1,Нарушение социального контекста
-http://video-storage.openedu.ru/video/hd/0001/PSYCON-k01x7x8er2.mp4
-#EXTINF:-1,Эффекты установки
-http://video-storage.openedu.ru/video/hd/0001/PSYCON-l7ezpqqvvg.mp4
-#EXTINF:-1,Закон Хика
-http://video-storage.openedu.ru/video/hd/0001/PSYCON-vwyin3qxjj.mp4
 #EXTINF:-1,XMAS WITH NKomenskih | ПРЕМЬЕРА МУЗЫКАЛЬНОГО ФИЛЬМА
 https://www.youtube.com/watch?v=1sPvH_-aPc8
 #EXTINF:-1,Рокфеллеры - Биография
 https://www.youtube.com/watch?v=1i_yhp9k1AM
-#EXTINF:-1,Безграничная Римская империя - 1 (с Мэри Бирд)
-http://50.7.161.18/s/3637e7c6f25c6a8d782a18ff40d0dd6e/Mary-Beard-Ultimate-Rome-Empire-Without-Limit/s01e01_720.mp4
-#EXTINF:-1,Безграничная Римская империя - 2  (с Мэри Бирд)
-http://50.7.161.18/s/3637e7c6f25c6a8d782a18ff40d0dd6e/Mary-Beard-Ultimate-Rome-Empire-Without-Limit/s01e02_720.mp4
-#EXTINF:-1,Безграничная Римская империя - 3  (с Мэри Бирд)
-http://50.7.161.18/s/3637e7c6f25c6a8d782a18ff40d0dd6e/Mary-Beard-Ultimate-Rome-Empire-Without-Limit/s01e03_720.mp4
-#EXTINF:-1,Безграничная Римская империя - 4  (с Мэри Бирд)
-http://50.7.161.18/s/3637e7c6f25c6a8d782a18ff40d0dd6e/Mary-Beard-Ultimate-Rome-Empire-Without-Limit/s01e04_720.mp4
 #EXTINF:-1,Александр Проханов и Сергей Кургинян. Беседа о Ленине
 https://www.youtube.com/watch?v=SqgPn-DZuP4
 #EXTINF:-1,Две жизни академика Яковлева
@@ -67,16 +23,10 @@ https://www.youtube.com/watch?v=-OJ1BYUDy00
 https://www.youtube.com/watch?v=-x-pyMfaz9k
 #EXTINF:-1,Век Эгоизма The century of the self 2002
 https://www.youtube.com/watch?v=rRSl1mf_Os0
-#EXTINF:-1,БесогонTV «Голливуд как источник мужества»
-https://www.youtube.com/watch?v=gorBCPaYR68
 #EXTINF:-1,"ЧП. Расследование": "Амнистия террора"
 https://www.youtube.com/watch?v=PpsECDzfGKg
-#EXTINF:-1,Анонс выпуска. БесогонTV «Синдром Гарри Поттера»
-https://www.youtube.com/watch?v=5Pxzgooc2yM
-#EXTINF:-1,Снятый с эфира выпуск программы БесогонTV «Синдром Гарри Поттера» -
+#EXTINF:-1,БесогонTV «Синдром Гарри Поттера» -
 https://www.youtube.com/watch?v=U6381rv5E18
-#EXTINF:-1,«Форсаж. Возвращение» - «Крым. Небо родины», реж. Н. Гугуева, 2016
-https://www.youtube.com/watch?v=rOakGH-nvYs
 #EXTINF:-1,ГЕНЕРАЛЬНЫЙ КОНСТРУКТОР серия 1
 https://www.youtube.com/watch?v=zUmMk6qfyxU
 #EXTINF:-1,ГЕНЕРАЛЬНЫЙ КОНСТРУКТОР серия 2
@@ -85,14 +35,6 @@ https://www.youtube.com/watch?v=cLAmn_T1iyE
 https://www.youtube.com/watch?v=bBgi4bgTqm4
 #EXTINF:-1,ДОКУМЕНТАЛЬНЫЙ ФИЛЬМ | ВИКТОР ТУРОВ. ДЫХАНИЕ ЖИЗНИ
 https://www.youtube.com/watch?v=nelH-PWiZxs
-#EXTINF:-1,Дворы нашего детства (1) 1992
-https://www.youtube.com/watch?v=th1slLhlJm8
-#EXTINF:-1,Дворы нашего детства (2) 1992
-https://www.youtube.com/watch?v=AA5Mv_nqJts
-#EXTINF:-1,Natalia Oreiro - United by love (Rusia 2018) [Official Lyric Video]
-https://www.youtube.com/watch?v=qXGkWDrNNls
-#EXTINF:-1,БесогонTV «Поле чудес в стране дураков»
-https://www.youtube.com/watch?v=DSqg6P3AHbs
 #EXTINF:-1,History: Как климат изменил ход истории /1 серия
 https://www.youtube.com/watch?v=lgbPbEOxCyY
 #EXTINF:-1,History: Как климат изменил ход истории / 2 серия
@@ -101,10 +43,6 @@ https://www.youtube.com/watch?v=pAK6SFx6L5M
 https://www.youtube.com/watch?v=8cmoPq4NlWQ
 #EXTINF:-1,История География Влияние климата на историю Агрессия людей
 https://www.youtube.com/watch?v=kFd6i-hvm8U
-#EXTINF:-1,Тайна семейной жизни педагога Макаренко | Телеканал "История" \-
-https://www.youtube.com/watch?v=swQGr3f2Zdk&feature=youtu.be
-#EXTINF:-1,Монтян: Поучайте своих паучат!
-https://www.youtube.com/watch?v=_NSCK0II2Xo
 #EXTINF:-1,Ольга Погодина. Судьба человека с Борисом Корчевниковым
 https://www.youtube.com/watch?v=7dWYYV0GeEg
 #EXTINF:-1,Михаил Хазин расклад на ближайшее время Как изменятся границы
@@ -119,13 +57,11 @@ https://www.youtube.com/watch?v=9_mnpsA3A6s
 https://www.youtube.com/watch?v=mg2ke7FLwTk
 #EXTINF:-1,Learn Python - Full Course for Beginners
 https://www.youtube.com/watch?v=rfscVS0vtbw
-#EXTINF:-1,Последний парад президента. Д.Джангиров и А.Золотарев
-https://www.youtube.com/watch?v=q-ysIjp3HVY
-#EXTINF:-1,Украинский национализм. Невыученные уроки | Телеканал "История" \-
+#EXTINF:-1,Украинский национализм. Невыученные уроки | Телеканал "История"
 https://www.youtube.com/watch?v=1x99QJDzFIk
-#EXTINF:-1,Кургинян: в Киеве и Вашингтоне аплодируют пенсионной реформе в
-https://www.youtube.com/watch?v=aPRRY3LN_Ls
-#EXTINF:-1,Кургинян: в Киеве и Вашингтоне аплодируют пенсионной реформе в
-https://www.youtube.com/watch?v=aPRRY3LN_Ls
-#EXTINF:-1,Маккейн... Как много в этом звуке... Дмитрий Джангиров
-https://www.youtube.com/watch?v=4DBnE9IQyZk
+#EXTINF:-1,ВЕДУЩИЙ ГЕНЕТИК РОССИИ РАЗНЕС ДОВОДЫ ЛОББИСТОВ ГМО ОТ МОНСАНТЫ
+https://www.youtube.com/watch?v=b4DTysLoWTI
+#EXTINF:-1,Виктория Исакова в программе "На ночь глядя"
+https://www.youtube.com/watch?v=gGIk5BK81KQ
+#EXTINF:-1,Документальный фильм: Минимализм фильм о важных вещах (2015)
+https://www.youtube.com/watch?v=jgUlBG8Cxuw
