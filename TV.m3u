@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Chita
+http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
 #EXTINF:-1,Великая Отечественная или Неизвестная война ☭ Фильм 1 й 22 июня
 https://www.youtube.com/watch?v=QNUPoy4hYp4
 #EXTINF:-1,Великая Отечественная или Неизвестная война ☭ Фильм 2 й Битва за
