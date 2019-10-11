@@ -1,16 +1,8 @@
 #EXTM3U
 #EXTINF:0,Россия 24 Online 
 https://www.youtube.com/watch?v=K59KKnIbIaM
-#EXTINF:-1, ТРК Украина
-http://50.7.172.170:8081/trk-ukr/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggc75527b6947c9a4d3c3354d38466e206T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:0,RT-Doc
-http://rtmp.api.rt.com/hls/rtdru360.m3u8
-#EXTINF:-1,NASA Live - Earth From Space (HDVR) ♥ ISS LIVE FEED
-https://www.youtube.com/watch?v=RtU_mdL2vBM&list=PL57quI9usf_uDMXfcJhmGLrDWiuH8kh3J&index=1
-#EXTINF:-1,NASA Live - Earth From Space Live Feed (HD) ISS live Nasa stream
-https://www.youtube.com/watch?v=qzMQza8xZCc&list=PL57quI9usf_uDMXfcJhmGLrDWiuH8kh3J&index=2
-#EXTINF:-1,Video Replay: The Moon - Incredible Lunar Views From The Japanese
-https://www.youtube.com/watch?v=nzkns8GfV-I&list=PL57quI9usf_uDMXfcJhmGLrDWiuH8kh3J&index=4
+#EXTINF:-1,Россия-1 (Chita)
+http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
 #EXTINF:-1,Россия РТР
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Россия РТР
