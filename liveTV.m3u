@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:0,Россия 24 Online 
-https://www.youtube.com/watch?v=K59KKnIbIaM
+#EXTINF:-1,Россия 24
+http://sochi.camera:8080/cam_256/index.m3u8?token=null
 #EXTINF:-1,Россия-1
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:r1.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Россия-1 (Chita)
 http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
 #EXTINF:-1,Россия РТР
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Россия РТР
-http://proxytv.netco.uz/hls/stream15/index.m3u8
+#EXTINF:-1,Россия РТР (Планета)
+https://player.vgtrk.com/iframe/live/id/4941/showZoomBtn/false/isPlay/true/mute/true/
 #EXTINF:-1,ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
 #EXTINF:-1,Россия К
@@ -17,3 +17,13 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Звезда
 http://tvzvezda.bonus-tv.ru:80/cdn/tvzvezda/tracks-v1a1/index.m3u8
+#EXTINF:-1,Звезда
+http://tvzvezda.bonus-tv.ru:80/cdn/tvzvezda/tracks-v2a1/index.m3u8
+#EXTINF:-1,Первый канал "Евразия"
+http://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8
+#EXTINF:-1,Первый канал "Евразия"
+http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:-1,Интер
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1,Интер
+http://109.68.41.148:1935/live/inter_2/playlist.m3u8
