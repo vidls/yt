@@ -18,6 +18,8 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
 #EXTINF:-1,Россия К
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+#EXTINF:-1,Звезда
 https://smarttvapp.ru/app/iptvfull.m3u
 #EXTINF:-1,Звезда +2
 https://smarttvapp.ru/app/iptvfull.m3u
