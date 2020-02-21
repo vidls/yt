@@ -18,9 +18,9 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
 #EXTINF:-1,Россия К
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Звезда
-http://tvzvezda.bonus-tv.ru:80/cdn/tvzvezda/tracks-v1a1/index.m3u8
-#EXTINF:-1,Звезда
-http://tvzvezda.bonus-tv.ru:80/cdn/tvzvezda/tracks-v2a1/index.m3u8
+https://smarttvapp.ru/app/iptvfull.m3u
+#EXTINF:-1,Звезда +2
+https://smarttvapp.ru/app/iptvfull.m3u
 #EXTINF:-1,Первый канал "Евразия"
 http://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8
 #EXTINF:-1,Первый канал "Евразия"
