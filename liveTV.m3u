@@ -18,11 +18,7 @@ http://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/chunklist_b16000
 #EXTINF:-1,ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
 #EXTINF:-1,НТВ
-http://79.135.71.195:8007
-#EXTINF:-1,НТВ
 http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8
-#EXTINF:-1,Звезда
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:-1,Звезда
 https://smarttvapp.ru/app/iptvfull.m3u
 #EXTINF:-1,Звезда +2
