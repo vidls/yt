@@ -20,9 +20,9 @@ http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
 #EXTINF:-1,НТВ
 http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8
 #EXTINF:-1,Звезда
-https://smarttvapp.ru/app/iptvfull.m3u
-#EXTINF:-1,Звезда +2
-https://smarttvapp.ru/app/iptvfull.m3u
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+#EXTINF:-1,Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1,Первый канал "Евразия"
 http://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8
 #EXTINF:-1,Первый канал "Евразия"
