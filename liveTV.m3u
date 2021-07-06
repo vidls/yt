@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Россия 24
-http://sochi.camera:8080/cam_256/index.m3u8?token=null
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1,Россия 24 (Chita 360p)
+http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
 #EXTINF:-1,Россия-1
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:r1.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Россия 1 HD
@@ -18,17 +20,13 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
 #EXTINF:-1,Россия К
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,ТВЦ
-http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
+http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
 #EXTINF:-1,НТВ
-http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:-1,Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1,Первый канал "Евразия"
-http://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8
-#EXTINF:-1,Первый канал "Евразия"
-http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 #EXTINF:-1,Интер
 https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
 #EXTINF:-1,Интер
@@ -37,14 +35,12 @@ http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:0,Моя Планета
 http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,ЛитКлуб ТВ - Проза
-http://hls-rossp.cdnvideo.ru/hls/5ace67f0dc96bf0a90d8a2b7/720p.m3u8
-#EXTINF:-1,ЛитКлуб ТВ - Слово
-http://hls-rossp.cdnvideo.ru/hls/5ace6814e563f22e4ddc1f44/720p.m3u8
-#EXTINF:-1,ЛитКлуб ТВ - Стихи
-http://hls-rossp.cdnvideo.ru/hls/5aac88ffdc96bf05a7f78899/720p.m3u8
-#EXTINF:-1,Evgen СССР
-http://autopilot.myowntv.org/content/36506/index.m3u8
+#EXTINF:-1,Большая Азия
+http://89.189.191.250/239.211.211.162/stream.m3u8
+#EXTINF:-1,Viasat History
+http://188.93.95.83/viasathist/index.m3u8
+#EXTINF:-1,LOVE NATURE
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
 #EXTINF:-1,Радио "Маяк"
 http://icecast.vgtrk.cdnvideo.ru/mayakfm
 #EXTINF:-1,Радио "Вести-ФМ"
@@ -53,10 +49,3 @@ http://icecast.vgtrk.cdnvideo.ru/vestifm
 http://195.91.237.50:8000/ices128
 #EXTINF:-1,Радио "Культура ФМ"
 http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_64kbps
-#EXTINF:-1,Большая Азия
-http://89.189.191.250/239.211.211.162/stream.m3u8
-#EXTINF:-1,Viasat History
-http://188.93.95.83/viasathist/index.m3u8
-#EXTINF:-1,LOVE NATURE
-#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
-http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
